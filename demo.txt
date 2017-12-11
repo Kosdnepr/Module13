@@ -1,1 +1,2 @@
-First sentence.Second string
+First sentence.
+Second sentence.
